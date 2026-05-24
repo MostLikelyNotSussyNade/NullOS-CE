@@ -133,7 +133,7 @@ nullos/
 
 ## Community Edition
 
-Want to contribute? Check out [NullOS CE](https://github.com/felipe-jr/NullOS-CE) — a fork open to human contributions.
+Want to contribute? Check out [NullOS CE](https://github.com/MostLikelyNotSussyNade/NullOS-CE) — a fork open to human contributions.
 
 ## License
 
