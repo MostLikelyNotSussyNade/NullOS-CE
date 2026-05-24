@@ -1,6 +1,4 @@
-# NullOS - Community Edition (OUTDATED)
-
-> Updated version: [https://github.com/MostLikelyNotSussyNade/NullOS-CE](https://github.com/MostLikelyNotSussyNade/NullOS-CE)
+# NullOS - Community Edition
 
 > A community-driven fork of [NullOS](https://github.com/SussyNade/NullOS) — the AI-generated operating system experiment.
 
